@@ -1,0 +1,7 @@
+Metric,Before Cleaning,After Cleaning
+Rows,12575,12575
+Columns,11,11
+Missing cells,7229,0
+Duplicate rows,0,0
+Potential outliers detected,157,157
+Outliers removed,0,0
